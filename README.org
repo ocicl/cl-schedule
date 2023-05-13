@@ -2,8 +2,8 @@
 
 cl-schedule is a scheduling library in Common Lisp.
 
-|---------+---------------------------------------------------------------------------|
-| source  | git:https://github.com/jcguu95/cl-schedule/archive/refs/tags/2.0.0.tar.gz |
-| version | 2.0.0                                                                     |
-| systems | cl-schedule                                                               |
-|---------+---------------------------------------------------------------------------|
+|---------+----------------------------------------------------------------------------|
+| source  | file:https://github.com/jcguu95/cl-schedule/archive/refs/tags/2.0.0.tar.gz |
+| version | 2.0.0                                                                      |
+| systems | cl-schedule                                                                |
+|---------+----------------------------------------------------------------------------|
